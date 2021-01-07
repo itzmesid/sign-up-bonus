@@ -1,0 +1,45 @@
+{
+	"id_site": 1234,
+	"is_connected": 1,
+	"user": {
+		"name": "Narendran S",
+		"email": "naren@appsmav.com",
+		"signedup": 1,
+		"entries": 320
+	},
+	"user2": null,
+	"competitionName": "PURCHASE FOR A CHANCE TO WIN",
+	"competitionDesc": "Participate more and get more chances to win exciting gifts!",
+	"label": {
+		"continue_shopping": "Continue Shopping",
+		"participate_btn": "Participate",
+		"menu_prize": "Prizes",
+		"menu_back": "Back",
+		"total_entries": "Total Entries",
+		"shop_more": "Shop More. <br/> Earn More",
+		"available": "Available"
+	},
+	"prizes": [
+		{
+			"id": "01",
+			"title": "iPhone",
+			"description": "Lorem Ipsum is simply dummy, Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"image": "https://cdn.appsmav.com/gr/assets/img/gift.jpg",
+			"unit": 5
+		},
+		{
+			"id": "02",
+			"title": "Pixel 4a",
+			"description": "Lorem Ipsum is simply dummy, Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"image": "https://cdn.appsmav.com/gr/assets/img/gift.jpg",
+			"unit": 10
+		},
+		{
+			"id": "03",
+			"title": "Samsung Galaxy",
+			"description": "Lorem Ipsum is simply dummy, Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"image": "https://cdn.appsmav.com/gr/assets/img/gift.jpg",
+			"unit": 4
+		}
+	]
+}
